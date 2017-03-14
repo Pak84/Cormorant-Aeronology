@@ -1,0 +1,21 @@
+
+//Cormorant Shuttle Contacts!
+
+CONTRACT_TYPE
+{
+
+name = ShuttleMission
+
+title = Commercial Satellite Mission
+genericTitle = Commercial Satellite Mission
+
+//group = SpaceShuttle
+
+
+
+
+synopsis = 
+
+
+}
+
