@@ -1,12 +1,15 @@
 # Cormorant-Aeronology
-1.2.2a
+v1.3.0a Update
 
-Backup and testing version. Includes WIP parts that may or may not be functional
+Added:
 
-Changes;
+Decal set to add names and more flags to your shuttles
+Changes:
 
-Adjusted MMU rack-E node to prevent clipping
+New art for ST-25 engine. The old engine is moving to its proper place in the future Block II add-on
 
-Flipped SSME ISPs
+Many other small changes to get ready for the Block II release
 
-Buran Aero updated
+Updated the craft files on github to add the new decals
+
+Forgot to put in final descriptions for the decals! I'll add them later.
