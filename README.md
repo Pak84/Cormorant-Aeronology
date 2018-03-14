@@ -1,15 +1,9 @@
 # Cormorant-Aeronology
-v1.3.0a Update
+v1.4.1 Update
 
-Added:
+Fixed: OMS Pod RCS effects
 
-Decal set to add names and more flags to your shuttles
-Changes:
+Added: MMU Construction Port
 
-New art for ST-25 engine. The old engine is moving to its proper place in the future Block II add-on
+Stock engine effects messed up, use Realplume/Smokescreen patch for now.
 
-Many other small changes to get ready for the Block II release
-
-Updated the craft files on github to add the new decals
-
-Forgot to put in final descriptions for the decals! I'll add them later.
